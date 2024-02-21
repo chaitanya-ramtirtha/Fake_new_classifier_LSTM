@@ -1,0 +1,8 @@
+1 Dataset
+2 Take out independent and dependent features (X,y)
+3 Cleaning the data - 1) stemming (lemmatization better but computationaly expensive) 2) stopwords
+4 Fix a sentence length to fix the input
+5 One hot representation, Embedding layer (see cbow, word2vec, etc.)
+6 LSTM NN
+7 Convert X and y to array and split into train-test
+8 then train and check accuracy
